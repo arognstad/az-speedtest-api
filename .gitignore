@@ -1,0 +1,9 @@
+# Build files
+**/obj
+**/bin
+
+# Development configuration
+**/appsettings.Development.json
+**/Properties
+
+.vscode/**
